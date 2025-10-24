@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Security01</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Bienvenido</string>
+    <string name="login_subtitle">Inicia sesión para continuar</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Mi Perfil</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="logout_confirmation">¿Estás seguro de que deseas cerrar sesión?</string>
+    <string name="cancel">Cancelar</string>
+
+    <!-- Errors -->
+    <string name="error_empty_email">El email es obligatorio</string>
+    <string name="error_invalid_email">Formato de email inválido</string>
+    <string name="error_empty_password">La contraseña es obligatoria</string>
+    <string name="error_short_password">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="error_connection">Error de conexión</string>
+    <string name="error_unknown">Error desconocido</string>
+
+    <!-- Content Descriptions -->
+    <string name="app_logo">Logo de la aplicación</string>
+</resources>
